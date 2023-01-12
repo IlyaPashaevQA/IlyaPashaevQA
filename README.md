@@ -1,7 +1,5 @@
-<img align="right" src="https://github.com/IlyaPashaevQA/IlyaPashaevQA/blob/main/IMG_7025.gif" width="200">
-
 # Привет!
-
+<img align="right" src="https://github.com/IlyaPashaevQA/IlyaPashaevQA/blob/main/IMG_7025.gif" width="180">
 Меня зовут Илья, я тестировщик, QA, ку эй, тостер (to be continued...). Пока приходиться все время добавлять junior, но когда нибудь и это пройдет :)
 
 Мне 31, уже год нахожусь в трансформации собственной жизни. Несколько лет до этого занимался собственным делом - пекарней.
@@ -16,23 +14,20 @@
 
 
 
-## CV [in Google Docs](https://docs.google.com/document/d/197pYDi7u2_u5bUuNCLl6_nciEmbx5V4I9O0tqwkYAeI/edit?usp=sharing)
+## CV [Google Docs](https://docs.google.com/document/d/197pYDi7u2_u5bUuNCLl6_nciEmbx5V4I9O0tqwkYAeI/edit?usp=sharing)
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://docs.google.com/spreadsheets/d/1s9sdnz7KWJE_BgIZSkmT4ezRqNYYF_hFsTPU6cYI9W0/edit?usp=sharing)
+  -  [Mindmap Самокат](https://miro.com/app/board/uXjVPftGQjE=/?share_link_id=560353726552)
+  -  [Тестовое задание (багрепорты](https://docs.google.com/spreadsheets/d/1xOgVAwCBnKkkLV2SvSgSoJhTtS1qcHzkj4UZRDfO9hA/edit?usp=sharing) 
+  -  [Тестовое задание (багрепорты2)](https://docs.google.com/spreadsheets/d/1XctNkUp0C5-bXKaTI0Z3B3EcjmL-Toz0NckMLf3QmGA/edit?usp=sharing)
+  -  [Тестовое задание (багрепорты3)](https://docs.google.com/spreadsheets/d/1s9sdnz7KWJE_BgIZSkmT4ezRqNYYF_hFsTPU6cYI9W0/edit?usp=sharing)
 - Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
-- SQL запросы 
-  -  [Название проектв](https://ссылочку_сюда)
+  -  [API для тестирования](https://galactic-meadow-697904.postman.co/workspace/1bcdb307-5624-4515-bfb0-3cb8ca43becd/collection/22293816-1a5f1ff3-4438-4953-a69a-2e82f606b9bc?action=share&creator=25309959)
 - Учебные проекты
-  -  [Дипломный проект Яндекс Практикума](https://ссылочку_сюда)
+  -  [Дипломный проект Яндекс Практикума (теория, чек-листы, тест-кейсы, api)](https://docs.google.com/spreadsheets/d/1atICz6UYAsFjnklr9F2HtMiJIXK684ZQrtsl7eUQDXI/edit?usp=sharing)
 
-## Инструменты и технологии
-Блок для инструментов. Вы можете использовать мои иконки или создать папку у себя в проекте
+## Стек
 
 
 <p align="left">
