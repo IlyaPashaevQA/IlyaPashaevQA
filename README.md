@@ -1,5 +1,7 @@
-# Привет!
 <img align="right" src="https://github.com/IlyaPashaevQA/IlyaPashaevQA/blob/main/IMG_7025.gif" width="180">
+
+# Привет!
+
 Меня зовут Илья, я тестировщик, QA, ку эй, тостер (to be continued...). Пока приходиться все время добавлять junior, но когда нибудь и это пройдет :)
 
 Мне 31, уже год нахожусь в трансформации собственной жизни. Несколько лет до этого занимался собственным делом - пекарней.
@@ -63,4 +65,3 @@
 [![Linkedin: ilia-pashaev](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilia-pashaev/)
 [![Instagram: ilya_pashaev](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ilya_pashaev/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ilia_pashaev)
-
