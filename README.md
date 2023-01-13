@@ -16,7 +16,7 @@
 
 
 
-## CV [Google Docs](https://docs.google.com/document/d/197pYDi7u2_u5bUuNCLl6_nciEmbx5V4I9O0tqwkYAeI/edit?usp=sharing)
+### [CV Google Docs](https://docs.google.com/document/d/197pYDi7u2_u5bUuNCLl6_nciEmbx5V4I9O0tqwkYAeI/edit?usp=sharing)
 
 ## Портфолио 
 - Тестовая документация
@@ -60,8 +60,10 @@
 </a>
 </p>
 
-## Мои контакты
+## Контакты
 
 [![Linkedin: ilia-pashaev](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilia-pashaev/)
 [![Instagram: ilya_pashaev](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ilya_pashaev/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ilia_pashaev)
+
+<img align="left" src="https://github.com/IlyaPashaevQA/IlyaPashaevQA/blob/main/photo_2023-01-13%2010.08.44.jpeg" width="400">
